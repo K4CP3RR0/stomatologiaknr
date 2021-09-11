@@ -1,2 +1,2 @@
-# stomatologiakrn
+# stomatologiaknr
 Projekt
